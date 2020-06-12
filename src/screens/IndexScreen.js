@@ -1,12 +1,5 @@
 import * as React from 'react';
-import {
-  StyleSheet,
-  View,
-  Text,
-  FlatList,
-  Button,
-  TouchableOpacity,
-} from 'react-native';
+import {StyleSheet, View, Text, FlatList, TouchableOpacity} from 'react-native';
 import {Context} from '../context/BlogContext';
 import Feather from 'react-native-vector-icons/FontAwesome';
 
